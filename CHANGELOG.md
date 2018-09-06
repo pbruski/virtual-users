@@ -23,6 +23,12 @@ Dropping a requirement of a major version of a dependency is a new contract.
 ## [Unreleased]
 [Unreleased]: https://bitbucket.org/atlassian/virtual-users/branches/compare/release-1.0.0%0Dmaster
 
+## [1.0.2] - 2018-09-06
+[1.0.2]: https://bitbucket.org/atlassian/virtual-users/branches/compare/release-1.0.2%0Drelease-1.0.0
+
+### Fixed
+- Broken API in [previous version](https://bitbucket.org/atlassian/virtual-users/commits/tag/release-1.0.1)
+
 ## [1.0.1] - 2018-09-05
 [1.0.1]: https://bitbucket.org/atlassian/virtual-users/branches/compare/release-1.0.1%0Drelease-1.0.0
 **Botched version** please avoid
